@@ -19,7 +19,7 @@ function App() {
 
   return (
     <main>
-      <h1>My todos from ashishpal778</h1>
+      <h1>Terminal My todos  from ashishpal778</h1>
       <button onClick={createTodo}>+ new</button>
       <ul>
         {todos.map((todo) => (
